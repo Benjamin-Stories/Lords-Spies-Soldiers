@@ -1,0 +1,22 @@
+{
+  "date": "TBD",
+  "season": "TBD",
+  "currentLocation": "TBD",
+  "timeOfDay": "TBD",
+  "party": "TBD",
+  "currency": "TBD",
+  "personalCoin": "TBD",
+  "countyChest": "TBD",
+  "expectedAnnualRevenueCr": "TBD",
+  "expectedAnnualExpendituresCr": "TBD",
+  "crownTaxAnnualCr": "TBD",
+  "crownTaxNextDue": "TBD",
+  "crownTaxNextDueAmountCr": "TBD",
+  "storesWeeks": "TBD",
+  "laborIndex": "TBD",
+  "orderRating": "TBD",
+  "notoriety": "TBD",
+  "garrisonStatus": "TBD",
+  "activeProjects": "TBD",
+  "openProblems": "TBD"
+}

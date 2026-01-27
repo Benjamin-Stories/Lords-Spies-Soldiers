@@ -1,0 +1,105 @@
+{
+  "title": "Graymere Campaign State",
+  "fields": [
+    {
+      "key": "date",
+      "label": "Current Date",
+      "type": "text"
+    },
+    {
+      "key": "season",
+      "label": "Season",
+      "type": "text"
+    },
+    {
+      "key": "currentLocation",
+      "label": "Current Location",
+      "type": "text"
+    },
+    {
+      "key": "timeOfDay",
+      "label": "Time of Day",
+      "type": "text"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "list"
+    },
+    {
+      "key": "currency",
+      "label": "Currency Denominations",
+      "type": "text"
+    },
+    {
+      "key": "personalCoin",
+      "label": "Personal Coin (verified)",
+      "type": "text"
+    },
+    {
+      "key": "countyChest",
+      "label": "County Chest (status)",
+      "type": "text"
+    },
+    {
+      "key": "expectedAnnualRevenueCr",
+      "label": "Expected Annual Revenue (Crowns)",
+      "type": "number"
+    },
+    {
+      "key": "expectedAnnualExpendituresCr",
+      "label": "Expected Annual Expenditures (Crowns)",
+      "type": "number"
+    },
+    {
+      "key": "crownTaxAnnualCr",
+      "label": "Crown Tax Annual (Crowns)",
+      "type": "number"
+    },
+    {
+      "key": "crownTaxNextDue",
+      "label": "Next Crown Tax Due",
+      "type": "text"
+    },
+    {
+      "key": "crownTaxNextDueAmountCr",
+      "label": "Next Crown Tax Amount (Crowns)",
+      "type": "number"
+    },
+    {
+      "key": "storesWeeks",
+      "label": "Stores (Weeks of Supply)",
+      "type": "text"
+    },
+    {
+      "key": "laborIndex",
+      "label": "Labor Index (0-100)",
+      "type": "number"
+    },
+    {
+      "key": "orderRating",
+      "label": "Order (0-6)",
+      "type": "number"
+    },
+    {
+      "key": "notoriety",
+      "label": "Notoriety (0-6)",
+      "type": "number"
+    },
+    {
+      "key": "garrisonStatus",
+      "label": "Garrison Status",
+      "type": "text"
+    },
+    {
+      "key": "activeProjects",
+      "label": "Active Projects",
+      "type": "list"
+    },
+    {
+      "key": "openProblems",
+      "label": "Open Problems",
+      "type": "list"
+    }
+  ]
+}
