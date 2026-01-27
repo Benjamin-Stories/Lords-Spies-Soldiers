@@ -10,11 +10,20 @@
 - **Royal Marshal** — [name], [military posture]
 
 ### Graymere (local)
-- **Garrick Holt** (caretaker-castellan) — age, loyalties, secrets: [TBD]
+- **Garrick Holt** (“Old Holt”) — caretaker-castellan / steward-by-necessity; lives in a small chamber near the strongroom; keeper of keys.
+- **Mistress Anwen** — housekeeper and cook at Harrowgate.
+- **Mira** — Anwen’s teenage daughter; servant help at Harrowgate.
+- **Jory** — stable lad at Harrowgate.
+- **Old Bram** — yard-hand/repairs at Harrowgate.
+- **Hask** — guard at Harrowgate (seems most senior by default).
+- **Renn** — guard at Harrowgate.
+- **Coll** — guard at Harrowgate.
+- **Weller** — guard at Harrowgate.
 - **Town Speaker of Eastbridge** — [TBD]
-- **Master of the River Tolls** — [TBD]
+- **Master of the River Tolls (Eastbridge)** — [TBD]
+- **Market wardens (Eastbridge)** — [TBD]
+- **Shrine-keeper / local priest figure (Eastbridge)** — [TBD]
 - **Reeve of Village 1** — [TBD]
-- **Shrine-keeper / local priest figure** — [TBD]
 
 ### Neighbors
 - **Neighboring Count/Duke** — [TBD]
@@ -25,8 +34,8 @@
 
 ## B) Locations (placeholders)
 ### Core
-- **Castle Harrowgate** — gatehouse, hall, armory, granary, strongroom, stables, ruined tower: [details]
-- **Eastbridge** — bridge, market square, riverside docks, guildhall/meeting house, inn: [details]
+- **Castle Harrowgate** — noble seat as well as fortress; broad courtyard; great hall; keep with count’s apartments; kitchens/stores; armory; gatehouse and wallwalk; ruined tower.
+- **Eastbridge** — stone bridge; market; town watch by rotation; docks/river traffic (seasonal): [details]
 
 ### Eight villages (names to be revealed in play)
 1. Village: [TBD] — output: [TBD]
@@ -45,9 +54,9 @@
 
 ## C) Items & documents (placeholders)
 - **Royal Charter of Graymere** (sealed) — grants title, high justice, levy and fortification rights.
-- **County Seal** — [TBD]
+- **Seal case / signet** — Ben has a seal/signet sufficient to seal official letters.
 - **Ledgers of Harrowgate** — [TBD]
-- **Keys of the strongroom** — [TBD]
+- **Keys of the strongroom** — held by Holt.
 
 ## D) Domain projects (menu)
 - Repair gatehouse doors
