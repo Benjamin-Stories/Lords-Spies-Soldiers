@@ -1,50 +1,55 @@
 {
-  "title": "Graymere County \u2014 Campaign State",
+  "title": "Graymere County Campaign UI State",
   "fields": [
     {
-      "key": "date",
-      "label": "In-world Date",
+      "key": "current_day",
+      "label": "Current Day (in-world)",
       "type": "text"
     },
     {
-      "key": "current_location",
+      "key": "season",
+      "label": "Season",
+      "type": "text"
+    },
+    {
+      "key": "location",
       "label": "Current Location",
       "type": "text"
     },
     {
-      "key": "money",
-      "label": "Money on Hand (coin breakdown)",
+      "key": "personal_coin_cr",
+      "label": "Personal Coin (Crowns)",
+      "type": "number"
+    },
+    {
+      "key": "personal_coin_st",
+      "label": "Personal Coin (Stags)",
+      "type": "number"
+    },
+    {
+      "key": "county_chest_status",
+      "label": "County Chest Status",
       "type": "text"
     },
     {
-      "key": "estimated_weekly_costs",
-      "label": "Estimated Weekly Costs",
+      "key": "stores_weeks",
+      "label": "Stores (Weeks of Supply)",
       "type": "number"
     },
     {
-      "key": "estimated_weekly_income",
-      "label": "Estimated Weekly Income",
+      "key": "labor",
+      "label": "Labor (0\u2013100)",
       "type": "number"
-    },
-    {
-      "key": "knights",
-      "label": "Knights / Men-at-Arms (named roster)",
-      "type": "list"
-    },
-    {
-      "key": "court_members",
-      "label": "Court / Household Members (named roster)",
-      "type": "list"
     },
     {
       "key": "order",
-      "label": "County Order (0\u20136)",
+      "label": "Order (0\u20136)",
       "type": "number"
     },
     {
-      "key": "stores_weeks",
-      "label": "Stores (weeks of supply for household + garrison)",
-      "type": "number"
+      "key": "active_leads",
+      "label": "Active Leads",
+      "type": "list"
     }
   ]
 }
