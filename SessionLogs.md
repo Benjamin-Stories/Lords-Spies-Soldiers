@@ -1,5 +1,67 @@
 # Session Logs
 
+## Session 3 — Morning After: Pacing Accord, Eastbridge Briefing, Steward Search Opened (2026-01-28)
+**Date:** Day 2, 27th of Frostwane (late winter)
+
+### Pacing clarification (table agreement, reiterated)
+- Player explicitly requested **no rushed scene advancement** and **no forced early management decisions**.
+- Agreed approach: **play scenes in order**, no time-skips without explicit approval; early sessions emphasize **discovery, relationships, and observation**.
+
+### Harrowgate as a true noble seat (description correction)
+- Player requested Harrowgate be framed as a **lived-in noble castle**, not a cramped military complex.
+- Canonized: Harrowgate includes a **broad courtyard**, **great hall**, and a keep that is a **multi-level stone house** with **count’s apartments** (solar, bedchamber, ancillary rooms), guest rooms, and service areas; still **worn/understaffed**, but built for a lord’s household.
+
+### Skeleton household confirmed (bare minimum)
+- Player set staffing realism: after the old count’s execution, Harrowgate runs on **bare minimum**.
+- Roster reaffirmed:
+  - **Garrick Holt** (“Old Holt”) — caretaker-castellan/steward-by-necessity; lives near strongroom; keeper of keys.
+  - **Guards (4):** **Hask, Renn, Coll, Weller**.
+  - **Stable lad:** **Jory**.
+  - **Housekeeper/cook:** **Mistress Anwen**, with teenage daughter **Mira**.
+  - **Yard-hand/repairs:** **Old Bram**.
+  - Canon note: **wages not properly paid** for some time; Holt maintains order by rationing/promise.
+
+### Tour and introductions (continued)
+- Ben and Tomas toured: **great hall**, **kitchens**, **stores/granary**, **cellar**, **wood store**, **armory**, **gatehouse/wallwalk**.
+- Observations: modest, rationed supplies; armory holds **few serviceable spears**, **battered shields**, and **repaired mail**.
+- Ben gathered the entire household in the **great hall**, thanked them, and heard needs:
+  - Anwen: **salt and lamp oil**, more hands if coin allows.
+  - Jory: **hay low**, tack wearing.
+  - Bram: **tools thin**.
+  - Hask: **four guards too few**; thaw-season trouble concern.
+
+### Lunch pacing and private counsel
+- Ben took lunch privately with Tomas first (no rushing Holt’s briefing).
+- Tone: despite the castle’s heaviness, Ben and Tomas shared **small talk and occasional laughter**.
+- Tomas’s impression: Harrowgate is **tired, not broken**; people are cautious; Holt is the “center of gravity.”
+- Ben expressed intent for tomorrow/soon: **ride to Eastbridge** and later villages to observe.
+
+### Holt’s briefing: Eastbridge governance and peacekeeping
+- Eastbridge organization:
+  - **Town Speaker** (public voice; not “mayor”).
+  - **Master of the River Tolls** (bridge toll accounting/collection).
+  - **Market wardens** (keep order; settle small disputes).
+  - **Shrine-keeper** (social influence).
+- Peacekeeping:
+  - A rotating **town watch/militia** of householders (cudgels, old spears), bolstered by the **bridge chokepoint**.
+- Revenue overview:
+  - **Bridge tolls** are “cleanest coin.”
+  - Other dues: village renders (often **in kind/labor**), **market fees**, seasonal **river trade**.
+  - During the count’s absence, Eastbridge likely **held some monies locally** to keep itself running; Holt avoided pressing collections hard in late winter.
+
+### Steward search begins (both lanes)
+- Ben decided competence-first and opened **two recruitment lanes**:
+  1) **Local inquiries** in Eastbridge for ledger-capable candidates (toll/market/merchant ties).
+  2) **External request** for a trained candidate.
+- Holt drafted a sealed letter to **Asterhall** under Ben’s name/charter requesting an **estate clerk** (books-first) with potential advancement.
+- Canon reaffirmed: Ben has a **seal/signet** sufficient to seal official letters.
+
+### End state / current scene
+- Ben spent the rest of Day 1 speaking with Holt and walking the castle with Tomas, then went to bed.
+- **Morning (Day 2):** Ben wakes and looks out over the yard; Holt knocks, stating the **Asterhall rider** can depart within the hour.
+
+---
+
 ## Session 2 — Harrowgate: First Day, Household, and First Steps (2026-01-28)
 **Date:** Day 1, 26th of Frostwane (late winter)
 
