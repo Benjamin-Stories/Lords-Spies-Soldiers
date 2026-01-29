@@ -1,0 +1,44 @@
+{
+  "entries": {
+    "graymere-county": {
+      "name": "Graymere County",
+      "description": "River-and-marsh county of Valewyr, politically exposed and run-down despite wider peace. Contains one market town, eight villages, and scattered hamlets and crofts.",
+      "history": "Inherited by Ben after the previous count’s execution for treason.\nLate winter travel is slow; thaw brings floods and bandit opportunity.",
+      "importance": 5,
+      "image": null
+    },
+    "castle-harrowgate": {
+      "name": "Castle Harrowgate",
+      "description": "Old border-fort turned county seat: a lived-in noble castle with broad courtyard, great hall, and keep with apartments, but worn and understaffed. Includes gatehouse/wallwalk, armory, stores, and a half-ruined tower.",
+      "history": "Now Ben’s seat by royal charter.\nOperates on a skeleton crew with wages long in arrears.\nSupplies and arms are modest and rationed.",
+      "importance": 5,
+      "image": {
+        "file": "Library\\images\\locations\\castle-harrowgate.jpg",
+        "updated_utc": "2026-01-28T22:33:48Z"
+      }
+    },
+    "eastbridge": {
+      "name": "Eastbridge",
+      "description": "Market town by a stone bridge crossing and riverside docks; bridge tolls are the cleanest local coin. Governed locally via a Town Speaker, toll master, market wardens, and a shrine-keeper’s influence.",
+      "history": "Maintains a rotating town watch/militia of householders.\nLikely held some monies locally during the prior count’s absence.\nExpected first stop for Ben’s observation and local steward inquiries.",
+      "importance": 5,
+      "image": null
+    },
+    "kingdom-of-valewyr": {
+      "name": "Kingdom of Valewyr",
+      "description": "Feudal kingdom ruled by House Cauldrin, largely peaceful and prosperous at present. Graymere is one of its counties.",
+      "history": "Capital at Asterhall.\nCrown expects taxes and obedience via personal rule and charters.",
+      "importance": 4,
+      "image": null
+    },
+    "asterhall": {
+      "name": "Asterhall",
+      "description": "Capital of Valewyr and seat of House Cauldrin. Administrative center where Ben can request personnel and political support.",
+      "history": "Destination of Holt’s sealed request for an estate clerk.\nHome court of King Odran III and Princess Maeryn.",
+      "importance": 3,
+      "image": null
+    }
+  },
+  "version": 1,
+  "updated_utc": "2026-01-28T22:33:48Z"
+}

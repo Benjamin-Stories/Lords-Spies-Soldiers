@@ -1,0 +1,50 @@
+{
+  "entries": {
+    "ben-paran": {
+      "name": "Count Ben Paran of Graymere",
+      "description": "Newly elevated count of Graymere, granted high justice and feudal rights by royal charter after saving Princess Maeryn. Arrives to a neglected county and understaffed Castle Harrowgate.",
+      "history": "Formerly a landless knight of the king’s guard.\nRewarded with the county after an assassination attempt on Maeryn.\nBegins a steward/estate-clerk search to rebuild administration.",
+      "importance": 5,
+      "image": {
+        "file": "Library\\images\\characters\\ben-paran.jpg",
+        "updated_utc": "2026-01-28T22:32:37Z"
+      }
+    },
+    "tomas-rell": {
+      "name": "Tomas Rell",
+      "description": "Ben’s childhood friend and practical ex-guard, accompanying him as confidant and muscle. Grounded, soldierly perspective on Harrowgate and local risks.",
+      "history": "Arrived in Graymere with Ben on Day 1.\nServes as Ben’s private counsel as they assess the county.",
+      "importance": 4,
+      "image": {
+        "file": "Library\\images\\characters\\tomas-rell.jpg",
+        "updated_utc": "2026-01-28T22:32:11Z"
+      }
+    },
+    "garrick-holt": {
+      "name": "Garrick Holt (“Old Holt”)",
+      "description": "Caretaker-castellan and steward-by-necessity at Castle Harrowgate; keeper of keys and the castle’s remaining order. Central figure in the household’s survival amid unpaid wages and shortages.",
+      "history": "Verified Ben’s charter and admitted him to Harrowgate.\nBriefed Ben on Eastbridge governance, revenues, and peacekeeping.\nDrafted a sealed letter to Asterhall seeking an estate clerk.",
+      "importance": 5,
+      "image": {
+        "file": "Library\\images\\characters\\garrick-holt.jpg",
+        "updated_utc": "2026-01-28T22:31:38Z"
+      }
+    },
+    "king-odran-iii-cauldrin": {
+      "name": "King Odran III Cauldrin",
+      "description": "King of Valewyr and head of House Cauldrin, whose charter grants Ben authority in Graymere. His realm is broadly at peace and prosperous.",
+      "history": "Rules from Asterhall.\nSets crown obligations including annual Crown Tax expectations.",
+      "importance": 4,
+      "image": null
+    },
+    "princess-maeryn-cauldrin": {
+      "name": "Princess Maeryn Cauldrin",
+      "description": "Princess of Valewyr whose survival during an assassination attempt led to Ben’s elevation. A key tie binding Ben’s legitimacy to the royal house.",
+      "history": "Saved by Ben during an assassination attempt.\nBen was rewarded with the county of Graymere.",
+      "importance": 4,
+      "image": null
+    }
+  },
+  "version": 1,
+  "updated_utc": "2026-01-28T22:32:37Z"
+}
