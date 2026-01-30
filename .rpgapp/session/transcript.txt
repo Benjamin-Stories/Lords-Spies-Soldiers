@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [2026-01-27 22:00:31] PLAYER:
 Start the campaign, but please don't start right at the gate of the castle, start it further away. I want to experience the moment I see my new castle for the first time.
 
@@ -1054,4 +1055,100 @@ A light knock at your door interrupts the quiet. From the hall, **Garrick Holt**
 “My lord. You’re awake? The rider for **Asterhall** can be away within the hour—if you’ve any last words to add before the seal goes out.”
 
 What do you do—send the letter as-is, or speak to Holt first?
+=======
+[2026-01-28 21:05:33] PLAYER:
+What is the current scene
+
+[2026-01-28 21:05:40] GM:
+Morning at Harrowgate.
+
+You wake in your chamber and look out the window onto a gray late-winter yard—thin light, damp air, the castle feeling more like a place being kept alive than truly staffed. Below, the sparse skeleton crew is already in motion in ones and twos.
+
+Outside your door, Garrick Holt (“Old Holt”) waits with that steady, practical patience of a man holding the whole place together with keys and rationing. He tells you the Asterhall rider can depart within the hour—if you’ve any message to send or instructions to give, it needs doing now.
+
+**What do you do?**
+- Speak with Holt immediately (message/terms for Asterhall, instructions for the rider).
+- Get dressed and go down to the yard/stables to see the departure yourself (Jory and the horses).
+- Take a quick walk of the castle first (guards on duty, state of gates and stores) before committing to what you send.
+
+[2026-01-28 21:07:28] PLAYER:
+Tell me more details
+
+[2026-01-28 21:07:44] GM:
+Late-winter morning light seeps into **Castle Harrowgate** like it has to argue its way in—cold gray, damp in the stone. The keep is awake but not bustling; it’s the muted movement of a place run by habit and scarcity rather than comfort.
+
+You’re in the **count’s apartments**—serviceable rooms that have been kept from turning ruin, but only just. When you open the shutters you see the **broad courtyard** below: patched flagstones, a few barrels pulled under an eave to keep the worst of the wet off, and a thin thread of smoke from the kitchens that smells more of peat and broth than of roasting meat.
+
+Across the yard, the **half-ruined tower** looms—its top broken and dark, old damage that was never properly mended. Along the inner wall, you can pick out the uneven line of **repaired wallwork**, places where stone doesn’t match stone, where a county’s pride has been replaced by “good enough.”
+
+The household is the smallest you’ve ever seen for a county seat:
+- **In the kitchens**, Mistress **Anwen** is already working with her daughter **Mira**. Yesterday she asked for **salt and lamp oil**—not luxuries here, but necessities.
+- **By the stables**, **Jory** moves with the resigned efficiency of someone used to making too little stretch too far. He told you **hay is low** and tack is wearing.
+- **In the yard**, **Old Bram** fusses with repairs using what he has—he said **tools are thin**.
+- **At the gatehouse/wallwalk**, you know there are only **four guards** to cover everything. **Hask**—the one who seems “senior” by default—warned that four is **too few**, especially with **thaw-season trouble** and whatever is going on in **Eastbridge**.
+
+A soft knock comes from the corridor. **Garrick Holt** stands outside your door, keyring at his belt like a badge of office he never asked for. His face is calm, but the tiredness sits deep.
+
+“Morning, my lord,” he says. “If you mean to send the sealed letter—Asterhall, requesting a ledger-trained clerk—we can have a rider away soon. But once they’re gone, it’ll be days before we can correct anything you wished you’d added.”
+
+From somewhere deeper in the keep you hear **Tomas Rell** moving—boots on stone, the sound of a man who sleeps light in unfamiliar places.
+
+Nothing is pressing you into a decision *yet*—but the castle has that sense of a rope drawn tight: one bad choice, one missed payment, one rumor in Eastbridge, and it could start to fray.
+
+What do you do next?
+- Talk with **Holt** now about the letter to **Asterhall** (what exactly you’re asking for, and what you’re willing to promise).
+- Head into the **courtyard/stables** to speak with **Jory** and assess the horses and hay situation firsthand.
+- Go to the **gatehouse/wallwalk** to speak with **Hask** about the thaw-season worry and what he’s heard about **Eastbridge**.
+- Call in **Tomas** and decide together what your first “public” move in Harrowgate should be today.
+
+[2026-01-28 21:08:23] PLAYER:
+Tell me more about the day
+
+[2026-01-28 21:08:42] GM:
+Late-winter in Graymere doesn’t really do “morning” so much as it does *a gradual easing from dark to less-dark*. The damp sits in everything—stone, wool, leather—so the whole castle smells faintly of wet ash, old smoke, and boiled grain.
+
+### The rhythm of the day at Harrowgate (as it stands right now)
+
+**Before first light**
+- The kitchen is already working. You hear it before you see it: the scrape of a pot, the hush of someone moving quietly so they don’t wake those who can still sleep.
+- **Firewood** is treated like coin. Whoever draws it does so with care—small, measured loads.
+- The **guards** change on and off the wallwalk in pairs or singles (because there are only four to cover everything). It’s not “drill,” it’s simply staying awake and keeping eyes open.
+
+**Early morning**
+- The courtyard begins to move: a bucket line to the well/cistern, someone hauling a sack from stores, a quick sweep of the hall where mud gets tracked in.
+- The **stables** are a choke point. If the horses aren’t fed and watered, nothing goes anywhere. **Jory** has been making hay stretch; you can see it in how he portions it out—careful, almost apologetic.
+- The **armory** isn’t busy, but it’s present in everyone’s mind: a few serviceable spears, battered shields, repaired mail—enough to look like a household that can defend itself, not enough to feel secure.
+
+**Midmorning**
+- This is when decisions *want* to happen because it’s when people are upright and close enough to speak.
+- **Holt** will be doing his quiet circuit—keys, doors, stores, checks—because he’s the only real “system” Harrowgate has left.
+- If you call the household to the hall again, they’ll come; they’re not lazy, just worn. They’re watching you to see whether you’re another short-lived lord… or the one who stays.
+
+**Noon meal**
+- It’s plain and warm rather than plentiful: broth, coarse bread, maybe a bit of salt pork if there’s any to spare.
+- This is when grievances or worries tend to surface *indirectly*—a look between the guards, Anwen pausing before she answers, Bram mentioning a broken hinge like it’s just a hinge (and not the hundredth small thing that’s gone without proper repair).
+
+**Afternoon**
+- Small maintenance happens if it can: patching tack, mending a strap, tightening a gate chain, cleaning a spearhead.
+- If you intend to send riders or receive anyone from Eastbridge, afternoon is often the practical time to do it—light enough to travel, not yet the cold fall of evening.
+
+**Evening**
+- The castle draws inward. Doors are barred earlier than you’d expect in a “peaceful” realm—part habit, part caution.
+- Lamp light is rationed. You feel the lack of **lamp oil** not as a line item, but as darkness in corridors and the way people avoid unnecessary movement.
+
+### What *this* specific day feels like
+It’s your first stretch of time where the initial introductions are done and the castle has settled into the reality that you are actually here, awake, and likely to start asking questions.
+
+There’s no trumpet-call urgency, but there’s pressure in the background:
+- **Unpaid wages** hanging over every interaction like weather.
+- **Eastbridge** as the county’s cleanest coin source—close enough to matter, far enough to be uncertain.
+- **Thaw-season trouble** (Hask’s words) — the sort of trouble that comes when roads soften, people move again, and the watch is thin.
+
+### One clarification so I don’t invent details
+When you say “tell me more about the day,” do you mean:
+1) Ben’s **personal schedule** today (who he speaks to first, where he goes), or  
+2) A **general day-in-the-life** of Harrowgate/Eastbridge in late winter?
+
+Which one do you want?
+>>>>>>> 2e1c08c (WIP session sync (DESKTOP-06C37J1))
 
