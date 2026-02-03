@@ -1,0 +1,76 @@
+diff --git a/CampaignBible_Appendix.md b/CampaignBible_Appendix.md
+index 775b73f..fb443b2 100644
+--- a/CampaignBible_Appendix.md
++++ b/CampaignBible_Appendix.md
+@@ -1,14 +1,9 @@
+-# Campaign Bible (Appendix): Reference & Placeholders
+-
+-> This appendix is designed to be filled as play reveals facts. Many entries begin as placeholders.
+-
+-## A) NPC roster (placeholders)
+-### The Crown & Court
+-- **King Odran III Cauldrin** — [profile]
+-- **Princess Maeryn Cauldrin** — [profile]
+-- **Royal Chancellor** — [name], [agenda]
+-- **Royal Marshal** — [name], [military posture]
++## OOC Retcons Log
++- (Test) System test entry.
++- (Test) System test entry.
++- (Test) System test entry.
+ 
++## Retrieved from APPENDIX
+ ### Graymere (local)
+ - **Garrick Holt** (“Old Holt”) — caretaker-castellan / steward-by-necessity; lives in a small chamber near the strongroom; keeper of keys.
+ - **Mistress Anwen** — housekeeper and cook at Harrowgate.
+@@ -25,50 +20,9 @@
+ - **Shrine-keeper / local priest figure (Eastbridge)** — [TBD]
+ - **Reeve of Village 1** — [TBD]
+ 
+-### Neighbors
+-- **Neighboring Count/Duke** — [TBD]
+-- **Border reeve / rival bailiff** — [TBD]
+ 
+-### PC Circle
+-- **Tomas Rell** — practical ex-guard; strengths/flaws/goal: [TBD in play]
++---
+ 
+-## B) Locations (placeholders)
+ ### Core
+ - **Castle Harrowgate** — noble seat as well as fortress; broad courtyard; great hall; keep with count’s apartments; kitchens/stores; armory; gatehouse and wallwalk; ruined tower.
+ - **Eastbridge** — stone bridge; market; town watch by rotation; docks/river traffic (seasonal): [details]
+-
+-### Eight villages (names to be revealed in play)
+-1. Village: [TBD] — output: [TBD]
+-2. Village: [TBD]
+-3. Village: [TBD]
+-4. Village: [TBD]
+-5. Village: [TBD]
+-6. Village: [TBD]
+-7. Village: [TBD]
+-8. Village: [TBD]
+-
+-### Hamlets & sites
+-- [TBD] old mill
+-- [TBD] marsh causeway
+-- [TBD] watch hill
+-
+-## C) Items & documents (placeholders)
+-- **Royal Charter of Graymere** (sealed) — grants title, high justice, levy and fortification rights.
+-- **Seal case / signet** — Ben has a seal/signet sufficient to seal official letters.
+-- **Ledgers of Harrowgate** — [TBD]
+-- **Keys of the strongroom** — held by Holt.
+-
+-## D) Domain projects (menu)
+-- Repair gatehouse doors
+-- Re-roof granary
+-- Rebuild mill wheel
+-- Clear road to Eastbridge
+-- Hire steward/scribe
+-- Establish patrol schedule
+-
+-## E) Glossary
+-- **Crown Tax:** annual payment owed to the king.
+-- **Demesne:** the count’s personal lands worked for his benefit.
+-- **Levy:** temporary manpower raised from the populace.
+-- **Order:** abstract stability rating (0–6).
+-- **Render:** payment in produce/coin owed by villagers.
